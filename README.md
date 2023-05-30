@@ -2,9 +2,10 @@
 
 Soy un desarrollador web con experiencia en el diseño, desarrollo e implementación de aplicaciones web con React, Next.js etc.
  
-#Conocimientos en de lenguaje:
+**Conocimientos en:**
 
-![](img/Git_icon.svg)![](img/HTML5_logo.svg)![]![](img/CSS3_logo.svg)![](img/JavaScripts.svg)![](img/react.svg)![](img/N-js.svg)![](img/Python.svg)
+<img src="img/Git_icon.svg" alt="git" width="50"><img src="img/HTML5_logo.svg" alt="git" width="50"><img src="img/CSS3_logo.svg" alt="git" width="50"><img src="img/JavaScript-logo.svg" alt="git" width="50"><img src="img/react.svg" alt="git" width="50"><img src="img/N-js.svg" alt="git" width="50"><img src="img/Python-logo.svg" alt="git" width="50">
+
 <!--
 **carlos1297/carlos1297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
