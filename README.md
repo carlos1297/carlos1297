@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola mi nombre es Carlos 👋
+
+Soy un desarrollador web con experiencia en el diseño, desarrollo e implementación de aplicaciones web con React, Next.js etc.
 
 <!--
 **carlos1297/carlos1297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
