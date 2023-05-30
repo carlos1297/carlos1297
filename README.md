@@ -4,7 +4,7 @@ Soy un desarrollador web con experiencia en el diseño, desarrollo e implementac
  
 **Conocimientos en:**
 
-<img src="img/Git_icon.svg" alt="git" width="50"><img src="img/HTML5_logo.svg" alt="git" width="50"><img src="img/CSS3_logo.svg" alt="git" width="50"><img src="img/JavaScript-logo.svg" alt="git" width="50"><img src="img/react.svg" alt="git" width="50"><img src="img/N-js.svg" alt="git" width="50"><img src="img/Python-logo.svg" alt="git" width="50">
+<img src="img/Git_icon.svg" alt="git" width="50"><img src="img/HTML5_logo.svg" alt="git" width="42"><img src="img/CSS3_logo.svg" alt="git" width="50"><img src="img/JavaScript-logo.svg" alt="git" width="50"><img src="img/react.svg" alt="git" width="50"><img src="img/N-js.svg" alt="git" width="50"><img src="img/Python-logo.svg" alt="git" width="50">
 
 <!--
 **carlos1297/carlos1297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
