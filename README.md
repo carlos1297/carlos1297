@@ -3,6 +3,7 @@
 Soy un desarrollador web con experiencia en el diseño, desarrollo e implementación de aplicaciones web con React, Next.js etc.
  
 **Conocimientos en:**
+<span style="color: blue; font-weight: bold;">Texto con estilo en Markdown</span>
 
 <img src="img/Git_icon.svg" alt="git" width="50" margin-left="10px"><img src="img/HTML5_logo.svg" alt="git" width="42"><img src="img/CSS3_logo.svg" alt="git" width="50"><img src="img/JavaScript-logo.svg" alt="git" width="50"><img src="img/react.svg" alt="git" width="50"><img src="img/N-js.svg" alt="git" width="50"><img src="img/Python-logo.svg" alt="git" width="50">
 
