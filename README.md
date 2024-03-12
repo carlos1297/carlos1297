@@ -15,6 +15,7 @@ Soy un desarrollador web con experiencia en el diseño, desarrollo e implementac
     ![Node.js](img/N-js.svg =50x)
     ![Python](img/Python-logo.svg =50x)
 </div>
+![git](img/Git_icon.svg =50x) ![HTML5](img/HTML5_logo.svg =42x) ![CSS3](img/CSS3_logo.svg =50x) ![JavaScript](img/JavaScript-logo.svg =50x) ![React](img/react.svg =50x) ![Node.js](img/N-js.svg =50x) ![Python](img/Python-logo.svg =50x)
 
 <!--
 **carlos1297/carlos1297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
