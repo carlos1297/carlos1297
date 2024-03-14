@@ -1,4 +1,4 @@
-### Hola mi nombre es Carlos 👋
+# Hola mi nombre es Carlos 👋
 
 ## Soy un desarrollador web junior, desarrollo aplicaciones web con React, Next.js, Angular etc.
  
