@@ -1,6 +1,6 @@
 ### Hola mi nombre es Carlos 👋
 
-Soy un desarrollador web junior, desarrollo aplicaciones web con React, Next.js, Angular etc.
+## Soy un desarrollador web junior, desarrollo aplicaciones web con React, Next.js, Angular etc.
  
 **Conocimientos en:**
 
