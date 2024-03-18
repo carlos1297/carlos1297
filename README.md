@@ -1,6 +1,6 @@
 # Hola mi nombre es Carlos 👋
 
-## Soy un desarrollador web junior, desarrollo aplicaciones web con React, Next.js, Angular etc.
+### Soy desarrollador web junior apasionado por los desafíos y el aprendizaje continuo, buscando oportunidades para explorar nuevas tecnologías y mejorar mis habilidades.
  
 ### [Mi Porfolio 📁](carlos-portafolio.vercel.app) donde encotraras mis proyectos personales 
  
