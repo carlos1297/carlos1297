@@ -2,7 +2,7 @@
 
 ### Soy desarrollador web junior apasionado por los desafíos y el aprendizaje continuo, buscando oportunidades para explorar nuevas tecnologías y mejorar mis habilidades.
  
-### [Mi Porfolio 📁](carlos-portafolio.vercel.app) donde encotraras mis proyectos personales 
+##### [Mi Porfolio 📁](carlos-portafolio.vercel.app) donde encotraras mis proyectos personales 
  
 **Tecnologías 💻**
 
