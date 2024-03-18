@@ -2,7 +2,8 @@
 
 ### Soy desarrollador web junior apasionado por los desafíos y el aprendizaje continuo, buscando oportunidades para explorar nuevas tecnologías y mejorar mis habilidades.
  
-##### [Mi Porfolio 📁](carlos-portafolio.vercel.app) donde encontrarás mis proyectos personales
+
+#### [Mi Porfolio 📁](https://carlos-portafolio.vercel.app) donde encontrarás mis proyectos personales
 
 **Tecnologías 💻**
 
@@ -11,17 +12,9 @@
 **Herramientas 🛠️**
 
 <img src="img/Git_icon.svg" alt="git" width="50"><img src="img/github.svg" alt="github" width="50"><img src="img/pnpm.svg" alt="pnpm icon" width="70">
-<!--
-**carlos1297/carlos1297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Contacto 📩** 
+
+[linkedin](https://www.linkedin.com/in/carlos-pereyra-0b1014274)
+
